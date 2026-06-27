@@ -1,6 +1,6 @@
 <div align="center">
 
-![Extodan — Independent verification for autonomous AI.]([./assets/banner.png](https://github.com/Extodan/.github/blob/main/assets/banner.png))
+![Extodan — Independent verification for autonomous AI.](../assets/banner.png)
 
 **Independent verification for autonomous AI.**
 
