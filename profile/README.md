@@ -6,10 +6,6 @@
 
 </div>
 
----
-
-Every AI you depend on runs inside a box you can't see into. **Extodan is the independent check** — verification, proof, and accountability for the systems acting on your behalf. We answer to you, never to the system we're watching.
-
 > **Don't trust. Verify.**
 
 
